@@ -57,3 +57,7 @@ These insights help BoomBikes understand demand patterns and refine their busine
 | `Linear Modelling.ipynb`     | Complete study processes using Python           |
 | `day.csv`                    | Dataset containing historical bike demand records |
 | `README.md`                  | Project documentation                           |
+
+## 📢 Credits & References
+
+- **Project by:** Om Shirke
