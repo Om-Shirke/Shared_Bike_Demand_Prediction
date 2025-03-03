@@ -27,8 +27,6 @@ This project analyzes the demand for shared bikes in the American market to help
 
 ## ⚡ Key Findings & Insights  
 
-
-
 #### 🔹 Key Influencing Factors:  
 - **Temperature (temp) [+0.4782]** → Strongest positive impact on bike demand. As temperature increases, the number of rentals rises significantly.  
 - **Light Snow/Rain (Light_snowrain) [-0.2860]** → Strongest negative impact. Poor weather conditions reduce bike demand considerably.  
@@ -40,3 +38,22 @@ This project analyzes the demand for shared bikes in the American market to help
 - **Holiday (holiday), Windspeed (windspeed), Spring (spring), Misty (misty)** → These factors negatively impact the number of rentals. Higher wind speed and misty conditions reduce ridership.  
 
 These insights help BoomBikes understand demand patterns and refine their business strategy for revenue growth.  
+
+## 🛠 How to Run
+**Clone the repository:**
+   ```bash
+   git clone <https://github.com/Om-Shirke/Shared_Bike_Demand_Prediction.git>
+```
+## 📊 Future Improvements  
+- Explore advanced models like Decision Trees, Random Forest, or XGBoost for improved prediction accuracy.  
+- Optimize the model further by tuning hyperparameters using GridSearchCV.  
+- Incorporate real-time demand forecasting using live weather and seasonal data.  
+
+## 📂 Project Structure  
+
+| File Name                    | Description                                      |
+|------------------------------|--------------------------------------------------|
+| `Insights from the Modelling.pdf`  | Complete analysis and insights from the study  |
+| `Linear Modelling.ipynb`     | Complete study processes using Python           |
+| `day.csv`                    | Dataset containing historical bike demand records |
+| `README.md`                  | Project documentation                           |
