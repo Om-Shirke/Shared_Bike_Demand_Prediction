@@ -29,14 +29,14 @@ This project analyzes the demand for shared bikes in the American market to help
 
 
 
-### 🔹 Key Influencing Factors:  
+#### 🔹 Key Influencing Factors:  
 - **Temperature (temp) [+0.4782]** → Strongest positive impact on bike demand. As temperature increases, the number of rentals rises significantly.  
 - **Light Snow/Rain (Light_snowrain) [-0.2860]** → Strongest negative impact. Poor weather conditions reduce bike demand considerably.  
 
-### 📈 Positive Contributors to Demand:  
+#### 📈 Positive Contributors to Demand:  
 - **Year (year), Summer (summer), Winter (winter), September (Sept)** → Higher values in these features correlate with increased bike rentals.  
 
-### 📉 Negative Contributors to Demand:  
+#### 📉 Negative Contributors to Demand:  
 - **Holiday (holiday), Windspeed (windspeed), Spring (spring), Misty (misty)** → These factors negatively impact the number of rentals. Higher wind speed and misty conditions reduce ridership.  
 
 These insights help BoomBikes understand demand patterns and refine their business strategy for revenue growth.  
